@@ -1,0 +1,16 @@
+{
+  "name": "davidgoulart-news",
+  "version": "1.0.0",
+  "description": "Vou criar do zero uma aplicação de fórum com ímpeto de aperfeiçoar minhas hard skills e servir como Portfolio Pessoal e Blog para comunidade dev utilizar.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "David Goulart",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
